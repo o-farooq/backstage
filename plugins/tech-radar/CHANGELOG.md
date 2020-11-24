@@ -1,5 +1,16 @@
 # @backstage/plugin-tech-radar
 
+## 0.4.0
+
+### Minor Changes
+
+- 59e255180: Added tech radar blip history backend support and normalized the data structure
+
+### Patch Changes
+
+- Updated dependencies [475fc0aaa]
+  - @backstage/core@0.3.2
+
 ## 0.3.0
 
 ### Minor Changes
